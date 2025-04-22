@@ -50,5 +50,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-deans&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-deans)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-deans)](https://github.com/anuraghazra/github-readme-stats) -->
